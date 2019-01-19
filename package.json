@@ -1,0 +1,25 @@
+{
+  "name": "wise_weather",
+  "version": "1.0.0",
+  "description": "Know what's up with the weather",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lexscher/wise_weather.git"
+  },
+  "keywords": [
+    "react",
+    "sass",
+    "api",
+    "weather"
+  ],
+  "author": "Alexander Schelchere",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lexscher/wise_weather/issues"
+  },
+  "homepage": "https://github.com/Lexscher/wise_weather#readme"
+}
